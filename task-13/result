@@ -1,0 +1,4 @@
+NAME                      ENDPOINTS                                AGE
+flask-app-practice        10.233.102.138:5000,10.233.74.114:5000   3m
+shki15-django             10.233.75.51:8000                        20h
+shki15-django-node-port   10.233.75.51:8000                        20h

@@ -1,0 +1,22 @@
+      author: akrom
+      author: akrom
+      author: Azizbek
+      author: Azizbek
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"davron","project":"practice"},"name":"nginx1","namespace":"exam-davron"},"spec":{"containers":[{"image":"nginx","name":"nginx"}]}}
+      author: davron
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"davron","project":"practice"},"name":"nginx2","namespace":"exam-davron"},"spec":{"containers":[{"image":"nginx","name":"nginx"}]}}
+      author: davron
+      author: Kodirov
+      author: Kodirov
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"maxmudov","project":"practice"},"name":"nginx1","namespace":"exam-maxmudov"},"spec":{"containers":[{"image":"nginx:latest","name":"nginx1","ports":[{"containerPort":80}]}]}}
+      author: maxmudov
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"maxmudov","project":"practice"},"name":"nginx2","namespace":"exam-maxmudov"},"spec":{"containers":[{"image":"nginx:latest","name":"nginx2","ports":[{"containerPort":80}]}]}}
+      author: maxmudov
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"xotam","project":"practice","run":"nginx"},"name":"nginx1","namespace":"exam-xotam"},"spec":{"containers":[{"image":"nginx","name":"nginx"}],"dnsPolicy":"ClusterFirst","restartPolicy":"Always"}}
+      author: xotam
+        {"apiVersion":"v1","kind":"Pod","metadata":{"annotations":{},"labels":{"author":"xotam","project":"practice","run":"nginx"},"name":"nginx2","namespace":"exam-xotam"},"spec":{"containers":[{"image":"nginx","name":"nginx"}],"dnsPolicy":"ClusterFirst","restartPolicy":"Always"}}
+      author: xotam
+      author: ziyavuddin
+      author: ziyavuddin
+      author: fazliddin
+      author: fazliddin

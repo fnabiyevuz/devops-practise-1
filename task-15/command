@@ -1,0 +1,1 @@
+kubectl create ing flask-app --rule "fnabiyev.nvrbckdown.uz/=flask-app:80" --dry-run=client -o yaml > task-15/result

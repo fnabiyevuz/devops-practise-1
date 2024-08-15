@@ -1,0 +1,1 @@
+kubectl port-forward pod/flask-app-practice-557dfd4dc8-hwmk9 8080:5000
